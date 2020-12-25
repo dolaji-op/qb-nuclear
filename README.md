@@ -1,4 +1,4 @@
-``DB Framework Based``
+``Qbus Fivem Based Script``
 
 ``Discord - https://discord.gg/fivemsell``
 
